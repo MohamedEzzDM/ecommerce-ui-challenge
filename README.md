@@ -1,16 +1,20 @@
-# ecommerce
+<h1 align="center">:octocat:  El Gom3a app ui challenge :octocat:</h1>
 
-ecommerce app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<div>
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s1.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s2.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s3.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s4.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s5.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s6.png">
+    <img width="250" src="https://raw.githubusercontent.com/MohamedEzzDM/ecommerce-ui-challenge/main/screenshots/s7.png">
+ 
+    
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
